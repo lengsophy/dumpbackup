@@ -10,7 +10,9 @@ do
     else
      	mkdir "$date"
      	cd $date
-     		mongodump
+	export LC_ALL=C
+     	wait
+	mongodump
      	cd ..
 	git add --all
 	wait
