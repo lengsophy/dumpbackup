@@ -4,3 +4,29 @@ Thu Mar 17 05:03:55.331 DATABASE: meteor	 to 	dump/meteor
 terminate called after throwing an instance of 'std::runtime_error'
   what():  locale::facet::_S_create_c_locale name not valid
 Aborted (core dumped)
+[master 7d7e9da] udpate db
+ 1 file changed, 6 insertions(+)
+ create mode 100644 nohup.out
+warning: push.default is unset; its implicit value is changing in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the current behavior after the default changes, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+In Git 2.0, Git will default to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To https://lengsophy:sophyleng1267437611@github.com/lengsophy/dumpbackup.git
+   6f18fbd..7d7e9da  master -> master
