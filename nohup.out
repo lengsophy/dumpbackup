@@ -1,0 +1,6 @@
+connected to: 127.0.0.1
+Thu Mar 17 05:03:55.331 all dbs
+Thu Mar 17 05:03:55.331 DATABASE: meteor	 to 	dump/meteor
+terminate called after throwing an instance of 'std::runtime_error'
+  what():  locale::facet::_S_create_c_locale name not valid
+Aborted (core dumped)
