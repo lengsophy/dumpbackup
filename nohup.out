@@ -1,0 +1,115 @@
+2016-03-17T08:04:22.674+0000	writing meteor.answerquizz to dump/meteor/answerquizz.bson
+2016-03-17T08:04:22.674+0000	writing meteor.answerquizz metadata to dump/meteor/answerquizz.metadata.json
+2016-03-17T08:04:22.675+0000	done dumping meteor.answerquizz (17 documents)
+2016-03-17T08:04:22.675+0000	writing meteor.attribute to dump/meteor/attribute.bson
+2016-03-17T08:04:22.699+0000	writing meteor.attribute metadata to dump/meteor/attribute.metadata.json
+2016-03-17T08:04:22.699+0000	done dumping meteor.attribute (5834 documents)
+2016-03-17T08:04:22.699+0000	writing meteor.attribute_value to dump/meteor/attribute_value.bson
+2016-03-17T08:04:22.701+0000	writing meteor.attribute_value metadata to dump/meteor/attribute_value.metadata.json
+2016-03-17T08:04:22.702+0000	done dumping meteor.attribute_value (440 documents)
+2016-03-17T08:04:22.702+0000	writing meteor.banner to dump/meteor/banner.bson
+2016-03-17T08:04:22.702+0000	writing meteor.banner metadata to dump/meteor/banner.metadata.json
+2016-03-17T08:04:22.702+0000	done dumping meteor.banner (7 documents)
+2016-03-17T08:04:22.702+0000	writing meteor.card to dump/meteor/card.bson
+2016-03-17T08:04:22.702+0000	writing meteor.card metadata to dump/meteor/card.metadata.json
+2016-03-17T08:04:22.703+0000	done dumping meteor.card (0 documents)
+2016-03-17T08:04:22.703+0000	writing meteor.cart to dump/meteor/cart.bson
+2016-03-17T08:04:22.704+0000	writing meteor.cart metadata to dump/meteor/cart.metadata.json
+2016-03-17T08:04:22.704+0000	done dumping meteor.cart (80 documents)
+2016-03-17T08:04:22.704+0000	writing meteor.categories to dump/meteor/categories.bson
+2016-03-17T08:04:22.705+0000	writing meteor.categories metadata to dump/meteor/categories.metadata.json
+2016-03-17T08:04:22.705+0000	done dumping meteor.categories (66 documents)
+2016-03-17T08:04:22.705+0000	writing meteor.cfs._tempstore.chunks to dump/meteor/cfs._tempstore.chunks.bson
+2016-03-17T08:04:22.706+0000	writing meteor.cfs._tempstore.chunks metadata to dump/meteor/cfs._tempstore.chunks.metadata.json
+2016-03-17T08:04:22.706+0000	done dumping meteor.cfs._tempstore.chunks (3 documents)
+2016-03-17T08:04:22.706+0000	writing meteor.cfs.images.filerecord to dump/meteor/cfs.images.filerecord.bson
+2016-03-17T08:04:22.710+0000	writing meteor.cfs.images.filerecord metadata to dump/meteor/cfs.images.filerecord.metadata.json
+2016-03-17T08:04:22.711+0000	done dumping meteor.cfs.images.filerecord (876 documents)
+2016-03-17T08:04:22.711+0000	writing meteor.contents to dump/meteor/contents.bson
+2016-03-17T08:04:22.711+0000	writing meteor.contents metadata to dump/meteor/contents.metadata.json
+2016-03-17T08:04:22.711+0000	done dumping meteor.contents (21 documents)
+2016-03-17T08:04:22.711+0000	writing meteor.contents_type to dump/meteor/contents_type.bson
+2016-03-17T08:04:22.712+0000	writing meteor.contents_type metadata to dump/meteor/contents_type.metadata.json
+2016-03-17T08:04:22.712+0000	done dumping meteor.contents_type (3 documents)
+2016-03-17T08:04:22.712+0000	writing meteor.daily to dump/meteor/daily.bson
+2016-03-17T08:04:22.713+0000	writing meteor.daily metadata to dump/meteor/daily.metadata.json
+2016-03-17T08:04:22.713+0000	done dumping meteor.daily (31 documents)
+2016-03-17T08:04:22.713+0000	writing meteor.discount to dump/meteor/discount.bson
+2016-03-17T08:04:22.713+0000	writing meteor.discount metadata to dump/meteor/discount.metadata.json
+2016-03-17T08:04:22.714+0000	done dumping meteor.discount (1 document)
+2016-03-17T08:04:22.714+0000	writing meteor.favorite to dump/meteor/favorite.bson
+2016-03-17T08:04:22.714+0000	writing meteor.favorite metadata to dump/meteor/favorite.metadata.json
+2016-03-17T08:04:22.715+0000	done dumping meteor.favorite (163 documents)
+2016-03-17T08:04:22.715+0000	writing meteor.journey to dump/meteor/journey.bson
+2016-03-17T08:04:22.715+0000	writing meteor.journey metadata to dump/meteor/journey.metadata.json
+2016-03-17T08:04:22.716+0000	done dumping meteor.journey (3 documents)
+2016-03-17T08:04:22.716+0000	writing meteor.linkselling to dump/meteor/linkselling.bson
+2016-03-17T08:04:22.716+0000	writing meteor.linkselling metadata to dump/meteor/linkselling.metadata.json
+2016-03-17T08:04:22.716+0000	done dumping meteor.linkselling (1 document)
+2016-03-17T08:04:22.716+0000	writing meteor.list_product to dump/meteor/list_product.bson
+2016-03-17T08:04:22.717+0000	writing meteor.list_product metadata to dump/meteor/list_product.metadata.json
+2016-03-17T08:04:22.717+0000	done dumping meteor.list_product (3 documents)
+2016-03-17T08:04:22.717+0000	writing meteor.meteor_accounts_loginServiceConfiguration to dump/meteor/meteor_accounts_loginServiceConfiguration.bson
+2016-03-17T08:04:22.717+0000	writing meteor.meteor_accounts_loginServiceConfiguration metadata to dump/meteor/meteor_accounts_loginServiceConfiguration.metadata.json
+2016-03-17T08:04:22.718+0000	done dumping meteor.meteor_accounts_loginServiceConfiguration (4 documents)
+2016-03-17T08:04:22.718+0000	writing meteor.meteor_oauth_pendingCredentials to dump/meteor/meteor_oauth_pendingCredentials.bson
+2016-03-17T08:04:22.718+0000	writing meteor.meteor_oauth_pendingCredentials metadata to dump/meteor/meteor_oauth_pendingCredentials.metadata.json
+2016-03-17T08:04:22.718+0000	done dumping meteor.meteor_oauth_pendingCredentials (0 documents)
+2016-03-17T08:04:22.718+0000	writing meteor.meteor_oauth_pendingRequestTokens to dump/meteor/meteor_oauth_pendingRequestTokens.bson
+2016-03-17T08:04:22.719+0000	writing meteor.meteor_oauth_pendingRequestTokens metadata to dump/meteor/meteor_oauth_pendingRequestTokens.metadata.json
+2016-03-17T08:04:22.719+0000	done dumping meteor.meteor_oauth_pendingRequestTokens (0 documents)
+2016-03-17T08:04:22.719+0000	writing meteor.mouse to dump/meteor/mouse.bson
+2016-03-17T08:04:22.739+0000	writing meteor.mouse metadata to dump/meteor/mouse.metadata.json
+2016-03-17T08:04:22.740+0000	done dumping meteor.mouse (5157 documents)
+2016-03-17T08:04:22.740+0000	writing meteor.order to dump/meteor/order.bson
+2016-03-17T08:04:22.740+0000	writing meteor.order metadata to dump/meteor/order.metadata.json
+2016-03-17T08:04:22.740+0000	done dumping meteor.order (61 documents)
+2016-03-17T08:04:22.740+0000	writing meteor.p2 to dump/meteor/p2.bson
+2016-03-17T08:04:22.753+0000	writing meteor.p2 metadata to dump/meteor/p2.metadata.json
+2016-03-17T08:04:22.753+0000	done dumping meteor.p2 (848 documents)
+2016-03-17T08:04:22.754+0000	writing meteor.parent_tags to dump/meteor/parent_tags.bson
+2016-03-17T08:04:22.755+0000	writing meteor.parent_tags metadata to dump/meteor/parent_tags.metadata.json
+2016-03-17T08:04:22.755+0000	done dumping meteor.parent_tags (133 documents)
+2016-03-17T08:04:22.755+0000	writing meteor.parentattr to dump/meteor/parentattr.bson
+2016-03-17T08:04:22.755+0000	writing meteor.parentattr metadata to dump/meteor/parentattr.metadata.json
+2016-03-17T08:04:22.755+0000	done dumping meteor.parentattr (2 documents)
+2016-03-17T08:04:22.755+0000	writing meteor.payments to dump/meteor/payments.bson
+2016-03-17T08:04:22.756+0000	writing meteor.payments metadata to dump/meteor/payments.metadata.json
+2016-03-17T08:04:22.756+0000	done dumping meteor.payments (20 documents)
+2016-03-17T08:04:22.756+0000	writing meteor.posts to dump/meteor/posts.bson
+2016-03-17T08:04:22.757+0000	writing meteor.posts metadata to dump/meteor/posts.metadata.json
+2016-03-17T08:04:22.757+0000	done dumping meteor.posts (2 documents)
+2016-03-17T08:04:22.757+0000	writing meteor.products to dump/meteor/products.bson
+2016-03-17T08:04:22.768+0000	writing meteor.products metadata to dump/meteor/products.metadata.json
+2016-03-17T08:04:22.769+0000	done dumping meteor.products (835 documents)
+2016-03-17T08:04:22.769+0000	writing meteor.question to dump/meteor/question.bson
+2016-03-17T08:04:22.770+0000	writing meteor.question metadata to dump/meteor/question.metadata.json
+2016-03-17T08:04:22.770+0000	done dumping meteor.question (6 documents)
+2016-03-17T08:04:22.770+0000	writing meteor.quizz to dump/meteor/quizz.bson
+2016-03-17T08:04:22.770+0000	writing meteor.quizz metadata to dump/meteor/quizz.metadata.json
+2016-03-17T08:04:22.770+0000	done dumping meteor.quizz (5 documents)
+2016-03-17T08:04:22.770+0000	writing meteor.roles to dump/meteor/roles.bson
+2016-03-17T08:04:22.771+0000	writing meteor.roles metadata to dump/meteor/roles.metadata.json
+2016-03-17T08:04:22.771+0000	done dumping meteor.roles (1 document)
+2016-03-17T08:04:22.771+0000	writing meteor.shops to dump/meteor/shops.bson
+2016-03-17T08:04:22.772+0000	writing meteor.shops metadata to dump/meteor/shops.metadata.json
+2016-03-17T08:04:22.772+0000	done dumping meteor.shops (2 documents)
+2016-03-17T08:04:22.772+0000	writing meteor.stock to dump/meteor/stock.bson
+2016-03-17T08:04:23.186+0000	writing meteor.stock metadata to dump/meteor/stock.metadata.json
+2016-03-17T08:04:23.188+0000	done dumping meteor.stock (115960 documents)
+2016-03-17T08:04:23.189+0000	writing meteor.system.indexes to dump/meteor/system.indexes.bson
+2016-03-17T08:04:23.189+0000	writing meteor.tags to dump/meteor/tags.bson
+2016-03-17T08:04:23.192+0000	writing meteor.tags metadata to dump/meteor/tags.metadata.json
+2016-03-17T08:04:23.192+0000	done dumping meteor.tags (667 documents)
+2016-03-17T08:04:23.192+0000	writing meteor.tracking to dump/meteor/tracking.bson
+2016-03-17T08:04:23.196+0000	writing meteor.tracking metadata to dump/meteor/tracking.metadata.json
+2016-03-17T08:04:23.196+0000	done dumping meteor.tracking (909 documents)
+2016-03-17T08:04:23.196+0000	writing meteor.translation to dump/meteor/translation.bson
+2016-03-17T08:04:23.199+0000	writing meteor.translation metadata to dump/meteor/translation.metadata.json
+2016-03-17T08:04:23.199+0000	done dumping meteor.translation (751 documents)
+2016-03-17T08:04:23.199+0000	writing meteor.userTracking to dump/meteor/userTracking.bson
+2016-03-17T08:04:23.543+0000	writing meteor.userTracking metadata to dump/meteor/userTracking.metadata.json
+2016-03-17T08:04:23.550+0000	done dumping meteor.userTracking (93932 documents)
+2016-03-17T08:04:23.551+0000	writing meteor.users to dump/meteor/users.bson
+2016-03-17T08:04:23.719+0000	writing meteor.users metadata to dump/meteor/users.metadata.json
+2016-03-17T08:04:23.720+0000	done dumping meteor.users (41524 documents)
